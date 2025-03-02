@@ -1,0 +1,53 @@
+
+We hope you are enjoying the new gym equipment and layout. We're continuing to make changes and additions as you feedback to us, so please continue to chat to our staff or use our new email teamuclgym@ucl.ac.uk to help us shape your gym space!
+
+We've got some exciting things coming up in March from our very own giveaways and a new group exercise timetable to supporting TeamUCL and Project Active in a events such as Varsity and the UCL Campus run.
+
+Leave a review and win a piece of kit!
+
+To win a piece of TeamUCL kit all you have to do is leave us a Google review sharing your experience in the gym. Make sure your name is visible so we can contact our winners who will be selected on Friday 14th March - the perfect time to ensure you're the best dressed for Varsity!
+We've updated our fitness class timetable
+Head to our member app or website to view our new group fitness class timetable.
+
+To ensure our classes are all well attended and everyone has the opportunity to take part we have implemented a strike system. This means if you cancel within 12 hours of a class, don't show up or don't tap your card on the turnstiles you'll receive a strike on your account. If you receive 3 strikes or more in a week you'll still be able to attend a class if there is space but sadly you won't be able to book.
+
+Don't forget all our classes are included in all our memberships!
+Ramadan opening hours
+
+To support members observing Ramadan the gym will be open until 22.30 on Saturdays to match our weekday opening hours. Commencing from Saturday 8th March you'll be able to visit us for a later gym session, though last entry will remain 45 minutes before closing.
+
+Varsity is approaching
+
+Varsity is live! Tickets are on sale for all 45 events taking place from 21-28 March across 22 different venues – get yours today! Check out your favourite sport or try something new as you cheer UCL to victory. And don’t miss out on our two Varsity parties – the Launch Party at SCALA on Wednesday 19 March and official After Party at O2 Islington on Friday 28 March. Tickets are going fast!
+
+
+Join us at the UCL Campus Run
+
+Buy your Earlybird tickets now for The UCL Campus Run, on sale until Friday 7 March! The event will bring the UCL community together in a positive, welcoming, and inclusive environment and is open to all levels of ability and experience.
+Buy Now
+
+ Stay connected 
+
+We want to make sure you, as our members, are the first to get updates about our facilities as well as any updates relevant to your membership. The best way to do this is to  download our TeamUCL Gym member's app! The app allows you to view our fitness class timetable and book your spot as well as receive time relevant app notifications.
+
+You can also follow us on the relevant platforms below!
+Instagram	Instagram
+Website	Website
+Email	Email
+See you on the gym floor soon!
+ 
+TeamUCL Gym  x
+Copyright © 2023 UCLU, All rights reserved.
+
+Want to change how you receive these emails?
+You can update your preferences or unsubscribe from emails.
+
+next email:
+Re: Definition of the length of a path in graph theory
+by Ken Liu - Saturday, 1 March 2025, 7:36 PM
+	#edges = #vertices - 1 (as evident in image) due to boundary effect
+(which means for circular paths #edges = #vertices) 
+Show parent | Reply
+See this post in context
+Unsubscribe from this forum  Unsubscribe from this discussion  Change your forum digest preferences
+
